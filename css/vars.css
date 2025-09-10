@@ -1,0 +1,12 @@
+:root {
+  --page-background: #fff;
+  --section-background: #f6f6f6;
+  --main-color: #000;
+  --header-font-color: #828282;
+
+  --main-font-size: 18px;
+  --main-font-family: 'Gilroy-Bold', sans-serif;
+  --addition-font-family: 'Gilroy-Medium', sans-serif;
+
+  --container-width: 1200px;
+}
